@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControlVibrator</string>
+    <string name="btn_select">Select File</string>
+    <string name="btn_once">Vibrate Once</string>
+    <string name="btn_repeat">Vibrate Continuously</string>
+    <string name="btn_stop">Stop Vibrating</string>
+</resources>
